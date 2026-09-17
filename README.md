@@ -1,10 +1,3 @@
-<!--
-  ===================================================================
-  SIVASHANKAR S - PUBLIC GITHUB PROFILE README
-  Target GitHub Repository: Sivashankar002/Sivashankar002
-  ===================================================================
--->
-
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
