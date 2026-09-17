@@ -44,7 +44,7 @@
         </ul>
       </td>
       <td width="42%" align="center" valign="middle">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Workspace GIF" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100%" alt="Developer Coding GIF" style="border-radius: 12px;"/>
       </td>
     </tr>
   </table>
