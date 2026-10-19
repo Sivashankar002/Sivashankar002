@@ -34,7 +34,6 @@
     <tr>
       <td width="58%" valign="top">
         <h3>👨‍💻 Software Engineer • Full-Stack Developer • Problem Solver</h3>
-        <p>I am a passionate <b>Software Engineer at Wipro Technologies</b> skilled in building scalable web applications, robust backend services, and high-performance cloud architectures.</p>
         <ul>
           <li>🚀 Passionate Software Engineer at Wipro Technologies skilled in building scalable web applications, robust backend services, and high-performance cloud architectures.</li>
           <li>💼 <b>Current Role:</b> Software Engineer at <b>Wipro Technologies</b>.</li>
