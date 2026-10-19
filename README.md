@@ -36,10 +36,8 @@
         <h3>👨‍💻 Software Engineer • Full-Stack Developer • Problem Solver</h3>
         <p>I am a passionate <b>Software Engineer at Wipro Technologies</b> skilled in building scalable web applications, robust backend services, and high-performance cloud architectures.</p>
         <ul>
+          <li>🚀 Passionate Software Engineer at Wipro Technologies skilled in building scalable web applications, robust backend services, and high-performance cloud architectures.</li>
           <li>💼 <b>Current Role:</b> Software Engineer at <b>Wipro Technologies</b>.</li>
-          <li>🏆 <b>Competitive Programming:</b> Ranked <b>835th Globally</b> in LeetCode Weekly Contest (Rating 1500+).</li>
-          <li>🌟 <b>Recognitions:</b> Awarded Wipro’s <b>Habit Flagbearer</b> & <b>Budding Star</b> awards for learning agility and engineering performance.</li>
-          <li>💡 <b>IDE & Tools:</b> Cursor AI, VS Code, Docker, Git/GitHub.</li>
           <li>📫 <b>Contact:</b> <a href="mailto:shankarsivananthan75@gmail.com">shankarsivananthan75@gmail.com</a></li>
         </ul>
       </td>
